@@ -1,0 +1,32 @@
+            /*
+ Theme Name:   MaxstorePlus Child
+ Theme URI:    http://kutethemes.net/wordpress/maxstore/
+ Description:  MaxstorePlus Child Theme
+ Author:       KuteThemes
+ Author URI:   http://kutethemes.net/
+ Template:     maxstoreplus
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags: two-columns, left-sidebar, custom-background, custom-colors, custom-header, custom-menu, featured-images, translation-ready
+ Text Domain:  maxstoreplus-child
+*/
+
+/*main header block*/
+#header {margin-bottom: 10px;}
+
+/*super top header*/
+.header-style-1 .header-top{background: #696969;box-shadow: 0 8px 6px -6px black;}
+
+/*main header*/
+.main_logo{width: 40%;}
+.header-style-1 .main-header{padding: 20px 0;padding-left: 60px; padding-right: 60px;}
+.loginbutton{padding-top: 5px;}
+
+.user{font-size: 25px;}
+/* sticky header*/
+.rezised{width: 20%;}
+
+
+/*nav bar*/
+.header-style-1 .header-menu{box-shadow: 0 8px 6px -6px black;}

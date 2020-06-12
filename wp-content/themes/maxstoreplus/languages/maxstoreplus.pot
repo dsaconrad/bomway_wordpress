@@ -1,0 +1,2070 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MaxstorePlus\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-12 11:03+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.4"
+
+#: templates/blogs/blog-standard.php:24
+#: templates/portfolio/content-standard.php:24
+msgid "%"
+msgstr ""
+
+#: templates/blogs/blog-single.php:19 templates/blogs/blog-bio.php:9
+#: templates/portfolio/content-single.php:19
+#: templates/blogs/fomat/content-fomat-4.php:36
+#: templates/blogs/fomat/content-fomat-5.php:34
+#: templates/blogs/fomat/content-fomat-3.php:53
+#: templates/blogs/fomat/content-fomat-2.php:45
+msgid "% Comments"
+msgstr ""
+
+#. 1: date, 2: time
+#: includes/theme-functions.php:351
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: templates/portfolio/content-portfolio.php:8
+#, php-format
+msgid "%s"
+msgstr ""
+
+#. %s: title of menu item which is invalid
+#: includes/nav/nav_edit_custom_walker.php:171
+#, php-format
+msgid "%s (Invalid)"
+msgstr ""
+
+#. %s: title of menu item in draft status
+#: includes/nav/nav_edit_custom_walker.php:179
+#, php-format
+msgid "%s (Pending)"
+msgstr ""
+
+#: includes/theme-functions.php:351
+msgid "(Edit)"
+msgstr ""
+
+#: includes/settings/theme-options.php:829
+#: includes/settings/theme-options.php:1011
+#: includes/settings/theme-options.php:1169
+#: includes/settings/theme-options.php:1291
+#: includes/settings/theme-options.php:1392
+#: includes/settings/theme-options.php:1484
+msgid "(Screen resolution of device < 480px)"
+msgstr ""
+
+#: includes/settings/theme-options.php:765
+#: includes/settings/theme-options.php:947
+#: includes/settings/theme-options.php:1105
+#: includes/settings/theme-options.php:1231
+#: includes/settings/theme-options.php:1332
+#: includes/settings/theme-options.php:1424
+msgid "(Screen resolution of device >= 1200px )"
+msgstr ""
+
+#: includes/settings/theme-options.php:813
+#: includes/settings/theme-options.php:995
+#: includes/settings/theme-options.php:1153
+#: includes/settings/theme-options.php:1276
+#: includes/settings/theme-options.php:1377
+#: includes/settings/theme-options.php:1469
+msgid "(Screen resolution of device >=480  add < 768px)"
+msgstr ""
+
+#: includes/settings/theme-options.php:797
+#: includes/settings/theme-options.php:979
+#: includes/settings/theme-options.php:1137
+#: includes/settings/theme-options.php:1261
+#: includes/settings/theme-options.php:1362
+#: includes/settings/theme-options.php:1454
+msgid "(Screen resolution of device >=768px and < 992px )"
+msgstr ""
+
+#: includes/settings/theme-options.php:781
+#: includes/settings/theme-options.php:963
+#: includes/settings/theme-options.php:1121
+#: includes/settings/theme-options.php:1246
+#: includes/settings/theme-options.php:1347
+#: includes/settings/theme-options.php:1439
+msgid "(Screen resolution of device >=992px and < 1200px )"
+msgstr ""
+
+#: templates/blogs/fomat/content-fomat-3.php:38
+#: templates/blogs/fomat/content-fomat-2.php:27
+msgid ","
+msgstr ""
+
+#: includes/theme-functions.php:504
+msgid "--- Choose Revolution Slider ---"
+msgstr ""
+
+#: templates/blogs/fomat/content-fomat-3.php:62
+msgid "..."
+msgstr ""
+
+#: template-parts/header-block-user.php:7 template-parts/header-userlink.php:7
+msgid "/Register"
+msgstr ""
+
+#: templates/blogs/blog-standard.php:22
+#: templates/portfolio/content-standard.php:22
+msgid "0"
+msgstr ""
+
+#: templates/blogs/blog-single.php:17 templates/portfolio/content-single.php:17
+#: templates/blogs/fomat/content-fomat-4.php:34
+#: templates/blogs/fomat/content-fomat-5.php:32
+#: templates/blogs/fomat/content-fomat-3.php:51
+#: templates/blogs/fomat/content-fomat-2.php:43
+msgid "0 Comment"
+msgstr ""
+
+#: templates/blogs/blog-bio.php:7
+msgid "0 Comments"
+msgstr ""
+
+#: templates/blogs/blog-standard.php:23
+#: templates/portfolio/content-standard.php:23
+msgid "1"
+msgstr ""
+
+#: templates/blogs/blog-single.php:18 templates/portfolio/content-single.php:18
+#: templates/blogs/fomat/content-fomat-4.php:35
+#: templates/blogs/fomat/content-fomat-5.php:33
+#: templates/blogs/fomat/content-fomat-3.php:52
+#: templates/blogs/fomat/content-fomat-2.php:44
+msgid "1 Comment"
+msgstr ""
+
+#: templates/blogs/blog-bio.php:8
+msgid "1 Comments"
+msgstr ""
+
+#: includes/class/breadcrumbs.php:237
+msgid "404 Not Found"
+msgstr ""
+
+#: comments.php:38
+msgid "</a>"
+msgstr ""
+
+#: includes/settings/theme-options.php:135
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: includes/settings/theme-options.php:1600
+#: includes/settings/theme-options.php:1606
+#: includes/settings/theme-options.php:1610
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: includes/widgets/widgets_product_categories.php:37
+msgid "A list or dropdown of product categories."
+msgstr ""
+
+#: includes/settings/theme-options.php:742
+#: includes/settings/theme-options.php:924
+msgid "About Author"
+msgstr ""
+
+#: includes/nav/kt_bootstrap_navwalker.php:414
+msgid "Add a menu"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+msgid "Add a review"
+msgstr ""
+
+#: comments.php:43
+msgid "Add Comment"
+msgstr ""
+
+#: includes/settings/theme-options.php:477
+msgid "Add custom sidebars."
+msgstr ""
+
+#: includes/attributes-swatches/product-attribute-meta.php:167
+msgid "Add new"
+msgstr ""
+
+#: functions.php:130 functions.php:140 functions.php:150
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: functions.php:492
+msgid "ago"
+msgstr ""
+
+#: templates/portfolio/content-portfolio.php:16
+msgid "All"
+msgstr ""
+
+#: template-parts/search-form.php:8
+msgid "All Categories"
+msgstr ""
+
+#: includes/widgets/widget-woo-layered-nav.php:111
+#: includes/widgets/widget-woo-layered-nav.php:176
+msgid "AND"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:128
+msgid "Anti-spam"
+msgstr ""
+
+#: includes/widgets/widget-woo-layered-nav.php:299
+#, php-format
+msgid "Any %s"
+msgstr ""
+
+#: woocommerce/cart/cart.php:177
+msgid "Apply coupon"
+msgstr ""
+
+#: includes/class/breadcrumbs.php:238
+msgid "Archives"
+msgstr ""
+
+#: includes/widgets/widget-woo-layered-nav.php:159
+msgid "Attribute"
+msgstr ""
+
+#: woocommerce/cart/cart.php:92
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product/product-image.php:81
+msgid "Awaiting product image"
+msgstr ""
+
+#: includes/settings/theme-options.php:1098
+msgid "Banner Slide"
+msgstr ""
+
+#: includes/settings/theme-options.php:283
+msgid "Basic media uploader with disabled URL input field."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:71
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: includes/settings/theme-options.php:1537
+msgid "Behance"
+msgstr ""
+
+#: includes/settings/theme-options.php:666
+msgid "Blog Layout"
+msgstr ""
+
+#: includes/settings/theme-options.php:688
+msgid "Blog Layout Style"
+msgstr ""
+
+#: includes/settings/theme-options.php:656
+msgid "Blog Settings"
+msgstr ""
+
+#: includes/settings/theme-options.php:679
+msgid "Blog Sidebar"
+msgstr ""
+
+#: includes/settings/theme-options.php:535
+msgid "Body Font Setting"
+msgstr ""
+
+#. Name of the template
+msgid "Box Page"
+msgstr ""
+
+#: includes/attributes-swatches/product-attribute-meta.php:48
+msgid "Box Style"
+msgstr ""
+
+#: includes/class/breadcrumbs.php:235
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: includes/class/breadcrumbs.php:234
+msgid "Browse:"
+msgstr ""
+
+#: includes/settings/theme-options.php:218
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: templates/blogs/fomat/content-fomat-6.php:11
+msgid "By:"
+msgstr ""
+
+#: templates/headers/header-style-11.php:17
+#: templates/headers/header-style-01.php:17
+#: templates/headers/header-style-12.php:17
+#: templates/headers/header-style-09.php:18
+msgid "call us toll free: "
+msgstr ""
+
+#: includes/nav/nav_edit_custom_walker.php:493
+msgid "Cancel"
+msgstr ""
+
+#: comments.php:39
+msgid "Cancel reply"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:27
+msgid "Cart Totals"
+msgstr ""
+
+#: includes/widgets/widgets_product_categories.php:51
+msgid "Category Order"
+msgstr ""
+
+#: template-parts/header-control.php:19
+msgid "checkout"
+msgstr ""
+
+#: includes/attributes-swatches/product-attribute-meta.php:251
+#: includes/attributes-swatches/product-attribute-meta.php:404
+msgid "Choose an image"
+msgstr ""
+
+#: includes/attributes-swatches/product-attribute-meta.php:513
+msgid "Choose an option"
+msgstr ""
+
+#: includes/settings/theme-options.php:700
+msgid "Colmuns"
+msgstr ""
+
+#: includes/widgets/widget-woo-layered-nav.php:103
+#: includes/attributes-swatches/product-attribute-meta.php:183
+#: includes/attributes-swatches/product-attribute-meta.php:324
+#: includes/settings/theme-options.php:295
+msgid "Color"
+msgstr ""
+
+#: includes/theme-functions.php:745
+msgid "Color Overlay: "
+msgstr ""
+
+#: includes/settings/theme-options.php:318
+msgid "Coming Soon !"
+msgstr ""
+
+#: includes/settings/theme-options.php:340
+msgid "Coming Soon Background"
+msgstr ""
+
+#: includes/settings/theme-options.php:331
+msgid "Coming Soon Logo"
+msgstr ""
+
+#: includes/theme-functions.php:581
+msgid "Coming Soon Mode"
+msgstr ""
+
+#: includes/theme-functions.php:565
+msgid "Coming Soon Mode Expired"
+msgstr ""
+
+#: includes/theme-functions.php:585
+msgid "Coming soon mode is actived"
+msgstr ""
+
+#: includes/theme-functions.php:569
+msgid "Coming soon mode is actived but expired"
+msgstr ""
+
+#: includes/settings/theme-options.php:388
+msgid "Coming soon when count down date expired"
+msgstr ""
+
+#: comments.php:61 comments.php:85
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:56
+msgid "Comments"
+msgstr ""
+
+#: comments.php:99
+msgid "Comments are closed."
+msgstr ""
+
+#: templates/blogs/blog-standard.php:44
+#: templates/portfolio/content-standard.php:44
+#, php-format
+msgid "Continue reading %s"
+msgstr ""
+
+#: woocommerce/cart/cart.php:144
+msgid "Continue Shopping"
+msgstr ""
+
+#: woocommerce/cart/cart.php:175
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:173
+msgid "Coupon:"
+msgstr ""
+
+#: includes/settings/theme-options.php:1217
+msgid "Cross sell"
+msgstr ""
+
+#: includes/settings/theme-options.php:1230
+msgid "Cross sell items per row on Desktop"
+msgstr ""
+
+#: includes/settings/theme-options.php:1245
+msgid "Cross sell items per row on landscape tablet"
+msgstr ""
+
+#: includes/settings/theme-options.php:1275
+#: includes/settings/theme-options.php:1290
+msgid "Cross sell items per row on Mobile"
+msgstr ""
+
+#: includes/settings/theme-options.php:1260
+msgid "Cross sell items per row on portrait tablet"
+msgstr ""
+
+#: includes/settings/theme-options.php:1218
+msgid "Cross sell settings"
+msgstr ""
+
+#: includes/settings/theme-options.php:1222
+#: includes/settings/theme-options.php:1226
+msgid "Cross sell title"
+msgstr ""
+
+#: includes/nav/nav_edit_custom_walker.php:397
+msgid "CSS Classes (optional)"
+msgstr ""
+
+#: includes/nav/kt_bootstrap_navwalker.php:243
+msgid "Currency:"
+msgstr ""
+
+#: includes/settings/theme-options.php:205
+#: includes/settings/theme-options.php:209
+msgid "Current theme preview"
+msgstr ""
+
+#: includes/settings/theme-options.php:508
+msgid "Custom CSS"
+msgstr ""
+
+#: includes/settings/theme-options.php:501
+msgid "Custom css,js your site "
+msgstr ""
+
+#: includes/settings/theme-options.php:500
+msgid "Custom CSS/JS"
+msgstr ""
+
+#: includes/settings/theme-options.php:518
+msgid "Custom JS "
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:34
+msgid "customer reviews"
+msgstr ""
+
+#: includes/settings/theme-options.php:197
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/class/breadcrumbs.php:792 includes/class/breadcrumbs.php:1260
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: includes/settings/theme-options.php:370
+msgid "Date Option"
+msgstr ""
+
+#: includes/theme-functions.php:652 includes/settings/meta-boxs.php:58
+msgid "Default"
+msgstr ""
+
+#: includes/settings/theme-options.php:450
+msgid "Delay time"
+msgstr ""
+
+#: includes/settings/theme-options.php:356
+#: includes/nav/nav_edit_custom_walker.php:421
+msgid "Description"
+msgstr ""
+
+#: templates/portfolio/fomat/content-fomat-1.php:47
+msgid "Descriptions here"
+msgstr ""
+
+#: includes/attributes-swatches/product-attribute-meta.php:79
+#: includes/attributes-swatches/product-attribute-meta.php:114
+msgid "Determines Size in this attribute.{width}x{height}"
+msgstr ""
+
+#: includes/settings/theme-options.php:251
+msgid "Dev Mode"
+msgstr ""
+
+#: includes/settings/theme-options.php:254
+#: includes/settings/theme-options.php:263
+#: includes/settings/theme-options.php:328
+#: includes/settings/theme-options.php:409
+#: includes/settings/theme-options.php:463
+#: includes/settings/theme-options.php:633
+#: includes/settings/theme-options.php:1084
+msgid "Disable"
+msgstr ""
+
+#: includes/settings/theme-options.php:390
+msgid "Disable coming soon"
+msgstr ""
+
+#: includes/theme-functions.php:725
+msgid "Disable Overflow: "
+msgstr ""
+
+#: woocommerce/cart/cart.php:168
+msgid "Discount Codes"
+msgstr ""
+
+#: includes/settings/theme-options.php:1089
+msgid "Display banner in shop page"
+msgstr ""
+
+#: includes/settings/theme-options.php:1090
+msgid "Display image in shop page"
+msgstr ""
+
+#: includes/widgets/widget-woo-layered-nav.php:165
+#: includes/attributes-swatches/product-attribute-meta.php:180
+#: includes/attributes-swatches/product-attribute-meta.php:317
+msgid "Display type"
+msgstr ""
+
+#: includes/widgets/widget-woo-layered-nav.php:96
+msgid "Display type:"
+msgstr ""
+
+#: includes/nav/nav_menu_custom_fields.php:79
+msgid "Do Shortcode"
+msgstr ""
+
+#: includes/settings/theme-options.php:391
+msgid "Don't disable coming soon"
+msgstr ""
+
+#: templates/popup-content.php:38
+msgid "Dont show this popup again"
+msgstr ""
+
+#: includes/nav/nav_edit_custom_walker.php:445
+msgid "Down one"
+msgstr ""
+
+#: includes/settings/theme-options.php:1530
+msgid "Dribbble"
+msgstr ""
+
+#: includes/widgets/widget-woo-layered-nav.php:101
+#: includes/widgets/widget-woo-layered-nav.php:168
+msgid "Dropdown"
+msgstr ""
+
+#: includes/nav/nav_edit_custom_walker.php:325
+#: includes/nav/nav_edit_custom_walker.php:329
+msgid "Edit Menu Item"
+msgstr ""
+
+#: includes/woo-functions.php:331
+msgid "Email"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:104
+msgid "Email address"
+msgstr ""
+
+#: includes/settings/theme-options.php:253
+#: includes/settings/theme-options.php:262
+#: includes/settings/theme-options.php:327
+#: includes/settings/theme-options.php:408
+#: includes/settings/theme-options.php:462
+#: includes/settings/theme-options.php:632
+#: includes/settings/theme-options.php:1083
+#: includes/nav/nav_menu_custom_fields.php:83
+msgid "Enable"
+msgstr ""
+
+#: includes/settings/theme-options.php:323
+msgid "Enable Coming Soon !"
+msgstr ""
+
+#: includes/nav/nav_menu_custom_fields.php:65
+msgid "Enable enable Currency Switcher"
+msgstr ""
+
+#: includes/settings/theme-options.php:259
+msgid "Enable lazy load"
+msgstr ""
+
+#: includes/settings/theme-options.php:260
+msgid "Enable lazy load image in products"
+msgstr ""
+
+#: includes/nav/nav_menu_custom_fields.php:49
+msgid "Enable login/logout link"
+msgstr ""
+
+#: includes/nav/nav_menu_custom_fields.php:57
+msgid "Enable mini cart"
+msgstr ""
+
+#: includes/settings/theme-options.php:404
+msgid "Enable Popup Newsletter"
+msgstr ""
+
+#: includes/settings/theme-options.php:1080
+msgid "Enable two image"
+msgstr ""
+
+#: includes/settings/theme-options.php:1081
+msgid "Enable two image in products"
+msgstr ""
+
+#: woocommerce/cart/cart.php:170
+msgid "Enter your coupon code if you have one."
+msgstr ""
+
+#: searchform.php:2
+msgid "Enter your keywords..."
+msgstr ""
+
+#: 404.php:8
+msgid "Error 404 - page not found"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:74
+#, php-format
+msgid "estimated for %s"
+msgstr ""
+
+#: includes/settings/meta-boxs.php:146
+msgid "Extra page class"
+msgstr ""
+
+#: includes/woo-functions.php:301 includes/settings/theme-options.php:1516
+msgid "Facebook"
+msgstr ""
+
+#: includes/widgets/widget-woo-layered-nav.php:56
+#: includes/widgets/widget-woo-layered-nav.php:153
+msgid "Filter by"
+msgstr ""
+
+#: includes/nav/list-font-icons.php:17
+msgid "FlatIcon"
+msgstr ""
+
+#: includes/nav/list-font-icons.php:6
+msgid "Font Awesome"
+msgstr ""
+
+#: includes/nav/nav_menu_custom_fields.php:94
+msgid "Font icon"
+msgstr ""
+
+#: includes/settings/theme-options.php:377
+msgid "Footer Coming Soon"
+msgstr ""
+
+#: includes/settings/theme-options.php:649
+msgid "Footer Display"
+msgstr ""
+
+#: includes/settings/meta-boxs.php:45
+msgid "Footer Options"
+msgstr ""
+
+#: includes/settings/theme-options.php:640
+#: includes/settings/theme-options.php:641
+msgid "Footer Settings"
+msgstr ""
+
+#: includes/settings/meta-boxs.php:81
+msgid "Footer style"
+msgstr ""
+
+#: includes/nav/nav_menu_custom_fields.php:270
+msgid "For example"
+msgstr ""
+
+#: includes/settings/theme-options.php:434
+msgid "Form button text"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Have Breadcrumbs"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Page"
+msgstr ""
+
+#: includes/settings/theme-options.php:242
+msgid "General"
+msgstr ""
+
+#: includes/settings/theme-options.php:493
+msgid ""
+"Get api_key in <a href=\"https://developers.google."
+"com/maps/documentation/javascript/get-api-key\" target=\"_blank\">Google</a>"
+msgstr ""
+
+#: includes/settings/theme-options.php:304
+msgid "Gives you the RGBA color."
+msgstr ""
+
+#: 404.php:10
+msgid "Go to Home"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Good"
+msgstr ""
+
+#: includes/settings/theme-options.php:491
+msgid "Google Keys"
+msgstr ""
+
+#: includes/settings/theme-options.php:484
+msgid "Google Maps"
+msgstr ""
+
+#: includes/settings/theme-options.php:1523
+msgid "Google Plus"
+msgstr ""
+
+#: includes/woo-functions.php:323
+msgid "Google+"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:94
+msgid "Grand Total"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:118
+msgid "Grand Total: "
+msgstr ""
+
+#: includes/settings/theme-options.php:691
+msgid "Grid masonry"
+msgstr ""
+
+#: includes/settings/theme-options.php:883
+msgid "Grid Portfolio"
+msgstr ""
+
+#: includes/settings/theme-options.php:592
+msgid "Header"
+msgstr ""
+
+#: includes/settings/theme-options.php:601
+msgid "Header Layout"
+msgstr ""
+
+#: includes/settings/theme-options.php:594
+msgid "Header Setings"
+msgstr ""
+
+#: includes/settings/theme-options.php:543
+msgid "Heading 1(H1) Font Setting"
+msgstr ""
+
+#: includes/settings/theme-options.php:551
+msgid "Heading 2(H2) Font Setting"
+msgstr ""
+
+#: includes/settings/theme-options.php:559
+msgid "Heading 3(H3) Font Setting"
+msgstr ""
+
+#: includes/settings/theme-options.php:567
+msgid "Heading 4(H4) Font Setting"
+msgstr ""
+
+#: includes/settings/theme-options.php:575
+msgid "Heading 5(H5) Font Setting"
+msgstr ""
+
+#: includes/settings/theme-options.php:583
+msgid "Heading 6(H6) Font Setting"
+msgstr ""
+
+#: template-parts/header-userlink.php:23
+msgid "Hi, "
+msgstr ""
+
+#: includes/widgets/widgets_product_categories.php:78
+msgid "Hide empty categories"
+msgstr ""
+
+#: includes/nav/nav_menu_custom_fields.php:73
+msgid "Hiden title"
+msgstr ""
+
+#: includes/class/breadcrumbs.php:236
+msgid "Home"
+msgstr ""
+
+#: includes/class/breadcrumbs.php:773
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: includes/settings/theme-options.php:226
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://kutethemes.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://maxstore.kutethemes.net"
+msgstr ""
+
+#: includes/woo-functions.php:330
+msgid "I wanted you to see this site"
+msgstr ""
+
+#: includes/nav/nav_menu_custom_fields.php:210
+#: includes/nav/nav_menu_custom_fields.php:236
+msgid "Icon image"
+msgstr ""
+
+#: includes/nav/nav_menu_custom_fields.php:194
+msgid "Icon Image "
+msgstr ""
+
+#: includes/nav/nav_menu_custom_fields.php:214
+msgid "Icon image hover"
+msgstr ""
+
+#: includes/nav/nav_menu_custom_fields.php:222
+#: includes/nav/nav_menu_custom_fields.php:240
+msgid "Icon note"
+msgstr ""
+
+#: includes/nav/nav_menu_custom_fields.php:90
+msgid "Icon Settings"
+msgstr ""
+
+#: includes/settings/meta-boxs.php:147
+msgid ""
+"If you wish to add extra classes to the body class of the page (for custom "
+"css use), then please add the class(es) here."
+msgstr ""
+
+#: includes/attributes-swatches/product-attribute-meta.php:464
+#: includes/nav/nav_menu_custom_fields.php:96
+msgid "Image"
+msgstr ""
+
+#: includes/nav/nav_menu_custom_fields.php:190
+#: includes/nav/nav_menu_custom_fields.php:210
+#: includes/nav/nav_menu_custom_fields.php:236
+msgid "Image preview"
+msgstr ""
+
+#: includes/woo-functions.php:567
+msgid "Information"
+msgstr ""
+
+#: includes/widgets/widget-woo-layered-nav.php:102
+msgid "Inline"
+msgstr ""
+
+#: includes/settings/theme-options.php:427
+msgid "Input placeholder text"
+msgstr ""
+
+#: includes/settings/theme-options.php:1551
+msgid "Instagram"
+msgstr ""
+
+#: template-parts/content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: includes/settings/theme-options.php:764
+#: includes/settings/theme-options.php:946
+msgid "Items per row on Desktop"
+msgstr ""
+
+#: includes/settings/theme-options.php:1104
+msgid "Items per row on Desktop( For grid mode )"
+msgstr ""
+
+#: includes/settings/theme-options.php:780
+#: includes/settings/theme-options.php:962
+msgid "Items per row on landscape tablet"
+msgstr ""
+
+#: includes/settings/theme-options.php:1120
+msgid "Items per row on landscape tablet( For grid mode )"
+msgstr ""
+
+#: includes/settings/theme-options.php:812
+#: includes/settings/theme-options.php:828
+#: includes/settings/theme-options.php:994
+#: includes/settings/theme-options.php:1010
+msgid "Items per row on Mobile"
+msgstr ""
+
+#: includes/settings/theme-options.php:1152
+#: includes/settings/theme-options.php:1168
+msgid "Items per row on Mobile( For grid mode )"
+msgstr ""
+
+#: includes/settings/theme-options.php:796
+#: includes/settings/theme-options.php:978
+msgid "Items per row on portrait tablet"
+msgstr ""
+
+#: includes/settings/theme-options.php:1136
+msgid "Items per row on portrait tablet( For grid mode )"
+msgstr ""
+
+#: includes/settings/theme-options.php:1655
+msgid "Kute Themes WordPress Team"
+msgstr ""
+
+#. Author of the theme
+msgid "Kutethemes"
+msgstr ""
+
+#: includes/attributes-swatches/product-attribute-meta.php:185
+#: includes/attributes-swatches/product-attribute-meta.php:330
+msgid "Label"
+msgstr ""
+
+#: woocommerce/product-searchform.php:32
+msgctxt "label"
+msgid "Search for:"
+msgstr ""
+
+#: includes/settings/theme-options.php:721
+#: includes/settings/theme-options.php:903
+msgid "Layout"
+msgstr ""
+
+#: comments.php:40
+msgid "Leave A Comment"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:72
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: includes/woo-functions.php:363
+msgid "Left"
+msgstr ""
+
+#: includes/settings/post-like.php:7 includes/settings/post-like.php:200
+#: includes/settings/post-like.php:314
+msgid "Like"
+msgstr ""
+
+#: includes/settings/theme-options.php:1322
+msgid "Limit number of products"
+msgstr ""
+
+#: includes/nav/nav_edit_custom_walker.php:409
+msgid "Link Relationship (XFN)"
+msgstr ""
+
+#: includes/settings/theme-options.php:1579
+msgid "Linkedin"
+msgstr ""
+
+#: includes/widgets/widget-woo-layered-nav.php:100
+#: includes/widgets/widget-woo-layered-nav.php:167
+msgid "List"
+msgstr ""
+
+#: includes/theme-functions.php:278 includes/theme-functions.php:288
+msgid "Load more item"
+msgstr ""
+
+#: template-parts/header-block-user.php:5 template-parts/header-userlink.php:5
+#: includes/nav/kt_bootstrap_navwalker.php:257
+#: woocommerce/myaccount/form-login.php:35
+#: woocommerce/myaccount/form-login.php:61
+msgid "Login"
+msgstr ""
+
+#: includes/settings/theme-options.php:270
+#: includes/settings/theme-options.php:280
+msgid "Logo"
+msgstr ""
+
+#: includes/nav/kt_bootstrap_navwalker.php:255
+msgid "Logout"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:68
+msgid "Lost your password?"
+msgstr ""
+
+#: includes/settings/theme-options.php:303
+msgid "Main Color"
+msgstr ""
+
+#: includes/settings/theme-options.php:630
+msgid "Main Menu Sticky"
+msgstr ""
+
+#: includes/widgets/widgets_product_categories.php:39
+msgid "Maxstore Plus - Product Categories"
+msgstr ""
+
+#: includes/widgets/widget-woo-layered-nav.php:25
+msgid "Maxstore Plus - WooCommerce Layered Nav"
+msgstr ""
+
+#. Name of the theme
+msgid "MaxstorePlus"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"maxstoreplus Shop is a simple but modern responsive WordPress theme that "
+"oozes high-street sophistication. Its sharp lines and flat design style has "
+"been designed to be pixel perfect. Simply load your photography and you can "
+"have an online shop to matches the likes of Prada, Gucci and Yves St Laurent."
+msgstr ""
+
+#: includes/nav/nav_menu_custom_fields.php:250
+msgid "Mega menu settings"
+msgstr ""
+
+#: functions.php:67
+msgid "Menu Categories"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: includes/class/breadcrumbs.php:244
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: includes/class/breadcrumbs.php:737
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: includes/class/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: includes/class/breadcrumbs.php:791 includes/class/breadcrumbs.php:851
+#: includes/class/breadcrumbs.php:1255
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Montserrat, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:170
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/nav/nav_edit_custom_walker.php:441
+msgid "Move"
+msgstr ""
+
+#: includes/nav/nav_edit_custom_walker.php:321
+msgid "Move down"
+msgstr ""
+
+#: includes/nav/nav_edit_custom_walker.php:295
+msgid "Move up"
+msgstr ""
+
+#: template-parts/header-control.php:6
+msgid "my account"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:35
+msgid "my cart"
+msgstr ""
+
+#: includes/widgets/widgets_product_categories.php:52
+msgid "Name"
+msgstr ""
+
+#: includes/nav/nav_edit_custom_walker.php:361
+msgid "Navigation Label"
+msgstr ""
+
+#: comments.php:64 comments.php:88
+msgid "Newer Comments"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:42
+msgid "Next"
+msgstr ""
+
+#: includes/widgets/widgets_product_categories.php:231
+msgid "No product categories exist."
+msgstr ""
+
+#: includes/attributes-swatches/product-attribute-meta.php:182
+#: includes/attributes-swatches/product-attribute-meta.php:321
+#: includes/nav/nav_menu_custom_fields.php:92
+msgid "None"
+msgstr ""
+
+#: includes/settings/post-like.php:22
+msgid "Not permitted"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:95
+msgid "Not that bad"
+msgstr ""
+
+#: template-parts/content-none.php:17
+msgid "Nothing Found"
+msgstr ""
+
+#: includes/settings/theme-options.php:1041
+#: includes/settings/theme-options.php:1327
+msgid "Number of products on shop page"
+msgstr ""
+
+#: includes/settings/theme-options.php:745
+#: includes/settings/theme-options.php:753
+#: includes/settings/theme-options.php:927
+#: includes/settings/theme-options.php:935
+#: includes/settings/theme-options.php:1093
+msgid "Off"
+msgstr ""
+
+#: comments.php:63 comments.php:87
+msgid "Older Comments"
+msgstr ""
+
+#: includes/settings/theme-options.php:744
+#: includes/settings/theme-options.php:752
+#: includes/settings/theme-options.php:926
+#: includes/settings/theme-options.php:934
+#: includes/settings/theme-options.php:1092
+msgid "On"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:107
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: includes/widgets/widgets_product_categories.php:73
+msgid "Only show children of the current category"
+msgstr ""
+
+#: includes/nav/nav_edit_custom_walker.php:387
+msgid "Open link in a new window/tab"
+msgstr ""
+
+#: includes/widgets/widget-woo-layered-nav.php:112
+#: includes/widgets/widget-woo-layered-nav.php:177
+msgid "OR"
+msgstr ""
+
+#: includes/widgets/widgets_product_categories.php:49
+msgid "Order by"
+msgstr ""
+
+#: includes/nav/nav_edit_custom_walker.php:465
+#, php-format
+msgid "Original: %s"
+msgstr ""
+
+#: template-parts/content-page.php:17
+msgid "Page"
+msgstr ""
+
+#. %s is the page number.
+#: includes/class/breadcrumbs.php:242
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: includes/settings/meta-boxs.php:112
+msgid "Page header backgound"
+msgstr ""
+
+#: includes/settings/meta-boxs.php:118
+msgid "Page heading height"
+msgstr ""
+
+#: includes/settings/meta-boxs.php:124
+msgid "Page layout"
+msgstr ""
+
+#: includes/settings/meta-boxs.php:99
+msgid "Page Options"
+msgstr ""
+
+#: template-parts/content-page.php:13
+msgid "Pages:"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:51
+#: woocommerce/myaccount/form-login.php:116
+msgid "Password"
+msgstr ""
+
+#: includes/settings/theme-options.php:509
+msgid "Paste your custom CSS code here."
+msgstr ""
+
+#: includes/settings/theme-options.php:519
+msgid "Paste your custom JS code here."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Perfect"
+msgstr ""
+
+#: includes/settings/theme-options.php:609
+msgid "Phone Number"
+msgstr ""
+
+#: includes/attributes-swatches/product-attribute-meta.php:184
+#: includes/attributes-swatches/product-attribute-meta.php:327
+msgid "Photo"
+msgstr ""
+
+#: includes/woo-functions.php:315 includes/settings/theme-options.php:1558
+msgid "Pinterest"
+msgstr ""
+
+#: woocommerce/product-searchform.php:30
+msgctxt "placeholder"
+msgid "Enter your keywords..."
+msgstr ""
+
+#: includes/settings/theme-options.php:441
+msgid "Popup Background"
+msgstr ""
+
+#: includes/settings/theme-options.php:420
+msgid "Popup content"
+msgstr ""
+
+#: includes/settings/theme-options.php:399
+msgid "Popup Newsletter"
+msgstr ""
+
+#: includes/settings/theme-options.php:413
+msgid "Popup Title"
+msgstr ""
+
+#: templates/portfolio/content-portfolio.php:13
+msgid "portfolio"
+msgstr ""
+
+#: includes/settings/theme-options.php:858
+msgid "Portfolio Layout"
+msgstr ""
+
+#: includes/settings/theme-options.php:880
+msgid "Portfolio Layout Style"
+msgstr ""
+
+#: includes/settings/theme-options.php:848
+msgid "Portfolio Settings"
+msgstr ""
+
+#: includes/settings/theme-options.php:871
+msgid "Portfolio Sidebar"
+msgstr ""
+
+#: woocommerce/loop/pagination.php:41
+msgid "Prev"
+msgstr ""
+
+#: woocommerce/cart/cart.php:119
+msgid "Price"
+msgstr ""
+
+#: functions.php:366 woocommerce/product-styles/content-product-style-6.php:56
+#: woocommerce/product-styles/content-product-style-4.php:42
+#: woocommerce/product-styles/content-product-style-5.php:55
+msgid "Price:"
+msgstr ""
+
+#: functions.php:65
+msgid "Primary Left Menu"
+msgstr ""
+
+#: functions.php:64
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:66
+msgid "Primary Right Menu"
+msgstr ""
+
+#: woocommerce/cart/cart.php:77
+msgid "Product"
+msgstr ""
+
+#: includes/widgets/widget-woo-layered-nav.php:85
+msgid "Product attribute:"
+msgstr ""
+
+#: includes/widgets/widgets_product_categories.php:43
+msgid "Product Categories"
+msgstr ""
+
+#: woocommerce/cart/cart.php:29
+msgid "Product Image"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30
+msgid "Product Name"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: includes/settings/theme-options.php:1036
+msgid "Products perpage"
+msgstr ""
+
+#: woocommerce/cart/cart.php:31 woocommerce/cart/cart.php:97
+msgid "Quantity"
+msgstr ""
+
+#: includes/widgets/widget-woo-layered-nav.php:107
+#: includes/widgets/widget-woo-layered-nav.php:174
+msgid "Query type"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Rate&hellip;"
+msgstr ""
+
+#: includes/theme-functions.php:654
+msgid "Ratio 1:1"
+msgstr ""
+
+#: includes/theme-functions.php:656
+msgid "Ratio 1:2"
+msgstr ""
+
+#: includes/theme-functions.php:658
+msgid "Ratio 2:2"
+msgstr ""
+
+#: templates/blogs/fomat/content-fomat-4.php:45
+#: templates/blogs/fomat/content-fomat-5.php:47
+#: templates/blogs/fomat/content-fomat-3.php:64
+msgid "Read more"
+msgstr ""
+
+#: template-parts/content-none.php:23
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:81
+#: woocommerce/myaccount/form-login.php:138
+msgid "Register"
+msgstr ""
+
+#: includes/settings/theme-options.php:758
+#: includes/settings/theme-options.php:940
+msgid "Related per page"
+msgstr ""
+
+#: includes/settings/theme-options.php:750
+#: includes/settings/theme-options.php:932
+msgid "Related Post"
+msgstr ""
+
+#: includes/settings/theme-options.php:1361
+msgid "Related product items per row on portrait tablet"
+msgstr ""
+
+#: includes/settings/theme-options.php:1309
+msgid "Related products"
+msgstr ""
+
+#: includes/settings/theme-options.php:1331
+msgid "Related products items per row on Desktop"
+msgstr ""
+
+#: includes/settings/theme-options.php:1346
+msgid "Related products items per row on landscape tablet"
+msgstr ""
+
+#: includes/settings/theme-options.php:1376
+#: includes/settings/theme-options.php:1391
+msgid "Related products items per row on Mobile"
+msgstr ""
+
+#: includes/settings/theme-options.php:1310
+msgid "Related products settings"
+msgstr ""
+
+#: includes/settings/theme-options.php:1314
+#: includes/settings/theme-options.php:1318
+msgid "Related products title"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:64
+msgid "Remember me"
+msgstr ""
+
+#: includes/nav/nav_edit_custom_walker.php:491 woocommerce/cart/cart.php:28
+msgid "Remove"
+msgstr ""
+
+#: includes/attributes-swatches/product-attribute-meta.php:227
+#: includes/attributes-swatches/product-attribute-meta.php:380
+msgid "Remove image"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:97 woocommerce/cart/cart.php:56
+msgid "Remove this item"
+msgstr ""
+
+#: includes/settings/theme-options.php:1586
+msgid "RSS"
+msgstr ""
+
+#: footer.php:2
+msgid "Scroll to Top"
+msgstr ""
+
+#: searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: template-parts/search-form.php:87
+msgid "search"
+msgstr ""
+
+#: template-parts/search-form.php:28 template-parts/search-form.php:52
+msgid "Search anything"
+msgstr ""
+
+#: template-parts/search-form.php:101
+msgid "Search entire store here"
+msgstr ""
+
+#: template-parts/search-form.php:85
+msgid "Search here..."
+msgstr ""
+
+#. %s is the search query. The HTML entities are opening and closing curly quotes.
+#: includes/class/breadcrumbs.php:240
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: search.php:50
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/search-form.php:36 template-parts/search-form.php:60
+msgid "Search..."
+msgstr ""
+
+#: includes/settings/theme-options.php:134
+msgid "Section via hook"
+msgstr ""
+
+#: includes/settings/theme-options.php:667
+#: includes/settings/theme-options.php:722
+#: includes/settings/theme-options.php:859
+#: includes/settings/theme-options.php:904
+msgid "Select a layout."
+msgstr ""
+
+#: includes/attributes-swatches/product-attribute-meta.php:165
+msgid "Select all"
+msgstr ""
+
+#: includes/settings/meta-boxs.php:82
+msgid "Select an option"
+msgstr ""
+
+#: includes/settings/theme-options.php:1099
+msgid "Select banner Slide style."
+msgstr ""
+
+#: includes/settings/theme-options.php:1070
+msgid "Select default layout for shop, product category archive."
+msgstr ""
+
+#: includes/settings/theme-options.php:602
+msgid "Select header layout style."
+msgstr ""
+
+#: includes/nav/nav_menu_custom_fields.php:124
+msgid "Select Icon"
+msgstr ""
+
+#: includes/attributes-swatches/product-attribute-meta.php:166
+msgid "Select none"
+msgstr ""
+
+#: includes/theme-functions.php:752
+msgid "Select Overlay color."
+msgstr ""
+
+#: includes/settings/theme-options.php:1048
+msgid "Select sidebar position on shop, product archive page."
+msgstr ""
+
+#: includes/settings/theme-options.php:1195
+msgid "Select sidebar position on single product page."
+msgstr ""
+
+#: includes/theme-functions.php:648
+msgid "Select size image."
+msgstr ""
+
+#: includes/attributes-swatches/product-attribute-meta.php:153
+msgid "Select terms"
+msgstr ""
+
+#: includes/settings/theme-options.php:296
+msgid "Setting Color of site "
+msgstr ""
+
+#: includes/settings/theme-options.php:274
+msgid "Setting logo of site"
+msgstr ""
+
+#: includes/settings/meta-boxs.php:139
+msgid "Setting sidebar in the area sidebar"
+msgstr ""
+
+#: includes/settings/meta-boxs.php:113
+msgid "Setting your page banner"
+msgstr ""
+
+#: includes/woo-functions.php:296
+msgid "share on:"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:58 woocommerce/cart/cart-totals.php:59
+msgid "Shipping"
+msgstr ""
+
+#: includes/settings/theme-options.php:1069
+msgid "Shop Default Layout"
+msgstr ""
+
+#: functions.php:148
+msgid "Shop Single Widget Area"
+msgstr ""
+
+#: functions.php:138
+msgid "Shop Widget Area"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:40
+msgid "shopping cart"
+msgstr ""
+
+#: includes/widgets/widgets_product_categories.php:58
+msgid "Show as dropdown"
+msgstr ""
+
+#: includes/widgets/widgets_product_categories.php:68
+msgid "Show hierarchy"
+msgstr ""
+
+#: includes/widgets/widgets_product_categories.php:63
+msgid "Show product counts"
+msgstr ""
+
+#: includes/widgets/widget-woo-layered-nav.php:23
+msgid ""
+"Shows a custom attribute in a widget which lets you narrow down the list of "
+"products when viewing product categories."
+msgstr ""
+
+#: includes/settings/theme-options.php:734
+#: includes/settings/theme-options.php:916
+#: includes/settings/theme-options.php:1060
+#: includes/settings/theme-options.php:1207 includes/settings/meta-boxs.php:135
+msgid "Sidebar"
+msgstr ""
+
+#: includes/settings/theme-options.php:1047
+msgid "Sidebar Position"
+msgstr ""
+
+#: includes/settings/theme-options.php:476
+msgid "Sidebars"
+msgstr ""
+
+#: includes/settings/theme-options.php:892
+msgid "Single Portfolio"
+msgstr ""
+
+#: includes/settings/theme-options.php:710
+msgid "Single post"
+msgstr ""
+
+#: includes/settings/theme-options.php:1187
+msgid "Single product"
+msgstr ""
+
+#: includes/settings/theme-options.php:1188
+msgid "Single product settings"
+msgstr ""
+
+#: includes/settings/theme-options.php:1194
+msgid "Single Product Sidebar Position"
+msgstr ""
+
+#: includes/attributes-swatches/product-attribute-meta.php:77
+#: includes/attributes-swatches/product-attribute-meta.php:110
+msgid "Size Box"
+msgstr ""
+
+#: includes/settings/theme-options.php:469
+msgid "Slidebar"
+msgstr ""
+
+#: includes/settings/theme-options.php:1503
+msgid "Social Settings"
+msgstr ""
+
+#: includes/settings/theme-options.php:536
+msgid "Specify the body font properties."
+msgstr ""
+
+#: includes/settings/theme-options.php:544
+msgid "Specify the H1 tag font properties."
+msgstr ""
+
+#: includes/settings/theme-options.php:552
+msgid "Specify the H2 tag font properties."
+msgstr ""
+
+#: includes/settings/theme-options.php:560
+msgid "Specify the H3 tag font properties."
+msgstr ""
+
+#: includes/settings/theme-options.php:568
+msgid "Specify the H4 tag font properties."
+msgstr ""
+
+#: includes/settings/theme-options.php:576
+msgid "Specify the H5 tag font properties."
+msgstr ""
+
+#: includes/settings/theme-options.php:584
+msgid "Specify the H6 tag font properties."
+msgstr ""
+
+#: includes/settings/theme-options.php:690
+#: includes/settings/theme-options.php:882
+msgid "Standard"
+msgstr ""
+
+#: templates/blogs/blog-standard.php:31
+#: templates/portfolio/content-standard.php:31
+msgid "Sticky"
+msgstr ""
+
+#: template-parts/search-form.php:25
+msgid "store search"
+msgstr ""
+
+#: includes/nav/nav_edit_custom_walker.php:265
+msgid "sub item"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:78
+msgid "Submit"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:125
+#: woocommerce/cart/cart-totals.php:32 woocommerce/cart/cart-totals.php:33
+msgid "Subtotal"
+msgstr ""
+
+#: includes/settings/theme-options.php:220 templates/blogs/blog-standard.php:37
+#: templates/portfolio/content-standard.php:37
+msgid "Tags"
+msgstr ""
+
+#: includes/settings/theme-options.php:616
+#: includes/settings/theme-options.php:623
+msgid "Text Header"
+msgstr ""
+
+#: includes/nav/nav_edit_custom_walker.php:425
+msgid ""
+"The description will be displayed in the menu if the current theme supports "
+"it."
+msgstr ""
+
+#: 404.php:9
+msgid ""
+"The page you request could not be found. Keep calm & return to the previous "
+"page!"
+msgstr ""
+
+#: includes/settings/theme-options.php:1599
+msgid "Theme Information 1"
+msgstr ""
+
+#: includes/settings/theme-options.php:1605
+msgid "Theme Information 2"
+msgstr ""
+
+#: includes/settings/theme-options.php:1629
+#: includes/settings/theme-options.php:1630
+msgid "Theme Options"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:58
+msgid "There are no reviews yet."
+msgstr ""
+
+#: includes/settings/theme-options.php:226
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: includes/settings/theme-options.php:658
+msgid "This Blog Setings"
+msgstr ""
+
+#: includes/settings/theme-options.php:244
+msgid "This General Setings"
+msgstr ""
+
+#: includes/settings/theme-options.php:478
+msgid "This is the description field, again good for additional info."
+msgstr ""
+
+#: includes/settings/theme-options.php:850
+msgid "This Portfolio Setings"
+msgstr ""
+
+#: includes/settings/theme-options.php:712
+#: includes/settings/theme-options.php:894
+msgid "This Single post Setings"
+msgstr ""
+
+#: includes/attributes-swatches/product-attribute-meta.php:216
+#: includes/attributes-swatches/product-attribute-meta.php:368
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/widgets/widgets_product_categories.php:44
+#: includes/widgets/widget-woo-layered-nav.php:154
+#: includes/settings/theme-options.php:349
+msgid "Title"
+msgstr ""
+
+#: includes/nav/nav_edit_custom_walker.php:373
+msgid "Title Attribute"
+msgstr ""
+
+#: includes/widgets/widget-woo-layered-nav.php:78
+msgid "Title:"
+msgstr ""
+
+#: includes/nav/nav_edit_custom_walker.php:451
+msgid "To the top"
+msgstr ""
+
+#: woocommerce/cart/cart-totals.php:95
+msgid "Total"
+msgstr ""
+
+#: includes/settings/theme-options.php:1544
+msgid "Tumblr"
+msgstr ""
+
+#: includes/woo-functions.php:308 includes/settings/theme-options.php:1509
+msgid "Twitter"
+msgstr ""
+
+#: includes/settings/theme-options.php:530
+msgid "Typography Options"
+msgstr ""
+
+#: includes/settings/theme-options.php:455
+msgid "Unit milliseconds"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32
+msgid "Unit Price"
+msgstr ""
+
+#: includes/settings/meta-boxs.php:121
+msgid "Unit PX"
+msgstr ""
+
+#: includes/settings/post-like.php:8 includes/settings/post-like.php:196
+msgid "Unlike"
+msgstr ""
+
+#: includes/nav/nav_edit_custom_walker.php:443
+msgid "Up one"
+msgstr ""
+
+#: includes/settings/theme-options.php:1423
+msgid "Up sells items per row on Desktop"
+msgstr ""
+
+#: includes/settings/theme-options.php:1438
+msgid "Up sells items per row on landscape tablet"
+msgstr ""
+
+#: includes/settings/theme-options.php:1468
+#: includes/settings/theme-options.php:1483
+msgid "Up sells items per row on Mobile"
+msgstr ""
+
+#: includes/settings/theme-options.php:1453
+msgid "Up sells items per row on portrait tablet"
+msgstr ""
+
+#: includes/settings/theme-options.php:1410
+msgid "Up sells products"
+msgstr ""
+
+#: includes/settings/theme-options.php:1411
+msgid "Up sells products settings"
+msgstr ""
+
+#: includes/settings/theme-options.php:1419
+msgid "Up sells products title"
+msgstr ""
+
+#: includes/settings/theme-options.php:1415
+msgid "Up sells title"
+msgstr ""
+
+#: woocommerce/cart/cart.php:149 woocommerce/cart/cart.php:150
+msgid "Update Shopping cart"
+msgstr ""
+
+#: includes/settings/theme-options.php:284
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+#: includes/attributes-swatches/product-attribute-meta.php:225
+#: includes/attributes-swatches/product-attribute-meta.php:378
+msgid "Upload/Add image"
+msgstr ""
+
+#: includes/nav/nav_edit_custom_walker.php:347
+msgid "URL"
+msgstr ""
+
+#: includes/attributes-swatches/product-attribute-meta.php:253
+#: includes/attributes-swatches/product-attribute-meta.php:406
+msgid "Use image"
+msgstr ""
+
+#: includes/settings/theme-options.php:410
+msgid "Use only for Home page"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:92
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:43
+msgid "Username or email address"
+msgstr ""
+
+#: includes/theme-functions.php:705
+#, php-format
+msgid "Using 50% background?: "
+msgstr ""
+
+#: includes/theme-functions.php:735
+msgid "Using Overlay? "
+msgstr ""
+
+#: includes/theme-functions.php:715
+msgid "Using Parallax?: "
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:37
+msgid "verified owner"
+msgstr ""
+
+#: includes/settings/theme-options.php:219
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+msgid "Very Poor"
+msgstr ""
+
+#: includes/settings/meta-boxs.php:18
+msgid "Video link"
+msgstr ""
+
+#: includes/woo-functions.php:182
+msgid "view full details"
+msgstr ""
+
+#: includes/settings/theme-options.php:1572
+msgid "Vimeo"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: includes/class/breadcrumbs.php:246
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: includes/class/breadcrumbs.php:822
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: functions.php:128
+msgid "Widget Area"
+msgstr ""
+
+#: template-parts/header-control.php:11
+msgid "wishlist"
+msgstr ""
+
+#: includes/settings/theme-options.php:1031
+msgid "WooCommerce"
+msgstr ""
+
+#: includes/settings/theme-options.php:1032
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: includes/class/breadcrumbs.php:790 includes/class/breadcrumbs.php:821
+#: includes/class/breadcrumbs.php:850 includes/class/breadcrumbs.php:879
+#: includes/class/breadcrumbs.php:1250
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: includes/theme-functions.php:708 includes/theme-functions.php:718
+#: includes/theme-functions.php:728 includes/theme-functions.php:738
+msgid "Yes"
+msgstr ""
+
+#: includes/settings/post-like.php:356
+msgid "You do not like anything yet."
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:53
+#, php-format
+msgid "You have %1$s item(s) in your cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:131
+msgid "You have no item(s) in your cart"
+msgstr ""
+
+#: includes/settings/post-like.php:330
+msgid "You Like:"
+msgstr ""
+
+#: templates/blogs/blog-related.php:59
+#: templates/portfolio/content-related.php:55
+msgid "You may also like"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product/review-meta.php:28
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: includes/theme-functions.php:357
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:24
+msgid "Your email"
+msgstr ""
+
+#: comments.php:34
+msgid "Your message"
+msgstr ""
+
+#: comments.php:23
+msgid "Your name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Your Rating"
+msgstr ""
+
+#: includes/settings/theme-options.php:1565
+msgid "Youtube"
+msgstr ""
+
+#: includes/settings/theme-options.php:378
+msgid "© 2017 Maxstore Kutethemes. All rights reserved"
+msgstr ""
